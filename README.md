@@ -1,0 +1,1 @@
+# Javascript1_porozumeni_kodu
